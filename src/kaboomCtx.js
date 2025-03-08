@@ -1,10 +1,9 @@
-import { kaboom } from "kaboom";
+import kaboom from "kaboom";
+import { scaleFactor } from "./constants";
 
-const kaboomCtx = kaboom({
-    global: false,
-    TouchEvent: true,
-    canvas: document.getElementById("game"),
-    ui: document.getElementById("ui"),
+export const k = kaboom({
+  global: false,
+  touchToMouse: true,
+  canvas: document.getElementById("game"),
+  debug: true, // set to false once ready for production
 });
-
-export default kaboomCtx;
