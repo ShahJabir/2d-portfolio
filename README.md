@@ -118,7 +118,7 @@ Once your server has started, go to this url `http://localhost:{PORT}/` to see t
 
 ## <a name="status"> Status</a>
 
-Visit it online: https://shahjabir.github.io/2d-portfolio/ 
+[![Deploy static content to Pages](https://github.com/ShahJabir/2d-portfolio/actions/workflows/main.yml/badge.svg)](https://github.com/ShahJabir/2d-portfolio/actions/workflows/main.yml) 
 
 
 
