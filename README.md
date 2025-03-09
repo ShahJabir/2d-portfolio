@@ -118,6 +118,8 @@ Once your server has started, go to this url `http://localhost:{PORT}/` to see t
 
 ## <a name="status"> Status</a>
 
+Visit it online: https://shahjabir.github.io/2d-portfolio/ 
+
 
 
 ## <a name="license">License 📄</a>
