@@ -1,4 +1,4 @@
-![2D Portfolio map.](/public/map.png "This is 2D Portfolio map.")
+![2D Portfolio map.](/public/Bannar.png "This is 2D Portfolio map.")
 
 <h1 align="center">2D Portfolio</h1>
 
