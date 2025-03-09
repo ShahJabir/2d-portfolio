@@ -4,7 +4,7 @@
 
 <div align="center">
 
-⚡️ [![GitHub](https://img.shields.io/github/license/ShahJabir/2d-portfolio?color=blue)](https://creativecommons.org/licenses/by-nc/4.0/)
+⚡️ [![GitHub](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://github.com/ShahJabir/2d-portfolio/blob/main/LICENSE)
 ![GitHub stars](https://img.shields.io/github/stars/ShahJabir/2d-portfolio)
 ![GitHub forks](https://img.shields.io/github/forks/ShahJabir/2d-portfolio)
 
